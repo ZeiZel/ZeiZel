@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://next-portfolio-4xu2.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+for+portfolio+:)" alt="Typing SVG" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeiZel)](https://git.io/streak-stats)
+
 ### My skills:
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
