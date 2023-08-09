@@ -10,4 +10,3 @@ Also I can build project with ![Next JS](https://img.shields.io/badge/Next-black
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeiZel&theme=dracula&custom_title=ZeiZel's+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZeiZel)](https://github.com/ryo-ma/github-profile-trophy)
