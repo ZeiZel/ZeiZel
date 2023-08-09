@@ -1,13 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://next-portfolio-4xu2.vercel.app" target="_blank">Valery</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://next-portfolio-4xu2.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+for+portfolio+:)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+fylly+web+developer" alt="Typing SVG" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeiZel)](https://git.io/streak-stats)
+I practiced my skills more in use ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) with using![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### My skills:
-
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZeiZel&theme=discord-old-blurple&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 #### on Frontend
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
