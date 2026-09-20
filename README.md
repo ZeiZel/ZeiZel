@@ -84,7 +84,7 @@ Post-Hardcore music · Dungeons & Dragons · Automation
 <p align="center"><img src="https://raw.githubusercontent.com/ZeiZel/ZeiZel/output/github-metrics.svg" alt="Isometric contribution calendar for the last six months" width="90%" /></p>
 
 <p align="center">
-  <img src="./assets/disco-hero.png" alt="The same painterly waterfront dossier artwork used as the profile footer" width="100%" />
+  <img src="./assets/disco-footer.png" alt="A rusted industrial metal strip with peeling ivory paint and ragged edges" width="100%" />
 </p>
 
 <sub>Visual credits: <a href="./assets/LICENSES.md">asset licenses</a> · skill icons are provided under the MIT License.</sub>
