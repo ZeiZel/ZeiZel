@@ -1,33 +1,24 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Violet and cyan checkered banner" width="100%" />
+  <img src="./assets/disco-hero.png" alt="A painterly waterfront city dossier with the title ZeiZel" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/ZeiZel">Valery</a> 👋</h1>
+<p align="center"><strong>Full-Stack Developer · Management · DevOps · Backend · System Design</strong></p>
 
-<p align="center"><strong>Management · DevOps · Backend Development · System Design</strong></p>
+---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ZeiZel&color=blueviolet" alt="Profile views" /></p>
+## 01 / DOSSIER
 
-## 🧑‍💻 About me
+Full-Stack Developer focused on **Management, DevOps, Backend Development, and System Design**.
 
-```typescript
-const zeizel: Developer = {
-  name: "Valery Lvov",
-  role: "Full-Stack Developer",
-  currentFocus: ["Management", "DevOps", "Backend Development", "System Design"],
-  funFact:
-    "I am building my own work platform from different self-hosted systems 🛠️ " +
-    "and slowly making my own game 🎮",
-  hobbies: ["Post-Hardcore Music 🎸", "DnD 🎲", "Automation 🤖"],
-};
-```
+Currently working in **Retail**, previously in **FinTech**.
 
-- 🏬 Currently working in **Retail**, previously in **FinTech**
-- 🔭 Building a **self-hosted** work platform and a small game
-- 📝 Maintaining a comprehensive **[Obsidian knowledge base](https://github.com/ZeiZel/Obsidian-base)** for IT development
-- 💬 Ask me about **Frontend, Desktop, Mobile, Backend, and DevOps development**
+You can ask me about **Frontend, Desktop, Mobile, Backend, and DevOps development**.
 
-## 🛠️ Tech stack
+> **VOLITION** — Keep learning. Keep shipping. Leave the system easier to understand than you found it.
+
+---
+
+## 02 / SKILL CABINET
 
 ### Languages & web
 
@@ -53,19 +44,28 @@ const zeizel: Developer = {
 
 <p><img src="./assets/skills-tools.svg" alt="Electron, Git, Figma, Obsidian, Linux and Neovim" /></p>
 
-### Additional technologies
+**Additional databases:** Microsoft SQL Server · MariaDB · ClickHouse
 
-- **Databases:** Microsoft SQL Server · MariaDB · ClickHouse
-- **Data access:** TypeORM · GORM · PL/SQL
-- **Platforms & tools:** Helm · Vagrant · React Native · PWA · ESLint · Claude · Codex · Nx · Expo · Homebrew
+**Data access:** TypeORM · Prisma ORM · GORM · PL/SQL
 
-### Observability
+**Platforms & tools:** Helm · Vagrant · React Native · PWA · ESLint · Claude · Codex · Nx · Expo · Homebrew
 
-**GPL:** Grafana · Prometheus · Loki
+**Observability:**
 
-**ELK:** Elasticsearch · Logstash · Kibana
+- **GPL:** Grafana · Prometheus · Loki
+- **ELK:** Elasticsearch · Logstash · Kibana
 
-## 🎮 A little playground
+---
+
+## 03 / SIDE QUESTS
+
+- 🛠️ **Self-hosted work platform** — assembling a personal working environment from interoperable systems.
+- 🎮 **Small game** — a quiet, ongoing experiment in design, code, and atmosphere.
+- 📚 **Knowledge base** — an [Obsidian vault for IT development](https://github.com/ZeiZel/Obsidian-base).
+
+---
+
+## 04 / AFTER HOURS
 
 <p align="center">
   <picture>
@@ -75,12 +75,16 @@ const zeizel: Developer = {
   </picture>
 </p>
 
-## 📆 Coding rhythm
+Post-Hardcore music · Dungeons & Dragons · Automation
+
+---
+
+## 05 / FIELD NOTES
 
 <p align="center"><img src="https://raw.githubusercontent.com/ZeiZel/ZeiZel/output/github-metrics.svg" alt="Isometric contribution calendar for the last six months" width="90%" /></p>
 
-<p align="center"><i>💥 Keep learning ... ~</i></p>
+<p align="center">
+  <img src="./assets/disco-hero.png" alt="The same painterly waterfront dossier artwork used as the profile footer" width="100%" />
+</p>
 
-<p align="center"><img src="./assets/banner.svg" alt="Violet and cyan checkered footer" width="100%" /></p>
-
-<sub>Visual credits: <a href="./assets/LICENSES.md">asset licenses</a> · <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a> · <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub>
+<sub>Visual credits: <a href="./assets/LICENSES.md">asset licenses</a> · skill icons are provided under the MIT License.</sub>

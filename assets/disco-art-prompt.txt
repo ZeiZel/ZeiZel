@@ -1,0 +1,30 @@
+DISCO HERO ARTWORK — GENERATION RECORD
+
+Output: assets/disco-hero.png
+Dimensions: 2172 × 724 px (exact 3:1 panorama)
+Format: PNG, 8-bit RGB
+Generated: 2026-09-20
+Generator: OpenAI Codex built-in image_gen tool (default built-in mode)
+Source artifact: generated image source retained outside the repository.
+Workflow: New image generated from text only; no reference images or existing artwork were supplied.
+
+FINAL PROMPT
+
+Use case: stylized-concept
+Asset type: GitHub profile README panoramic hero banner
+Primary request: Create original, finished, carefully art-directed painterly key art with the atmosphere of a literary detective role-playing game: melancholy postindustrial waterfront, civic decay, memory, fog and stubborn warmth. The result must feel like a hand-painted oil, gouache and dry-ink poster, never like a blank template.
+Scene/backdrop: A weathered coastal city at dawn, seen across cold water: crumbling concrete seawall, sparse tenements, distant industrial cranes, overhead wires, one warm window, fog dissolving the skyline. Layered dossier paper, distressed print registration and broad expressive brushwork merge into the scene.
+Subject: Typography is the main subject on the left half; the painted waterfront city is the main visual subject on the right half.
+Style/medium: Original hand-painted oil and gouache illustration with charcoal, ink bleed, scratched dry-brush texture, weathered screenprint, pasted-paper dossier edges, expressive but disciplined game key-art finish. No photo realism, no plain vector geometry, no glossy modern gradient.
+Composition/framing: Exact 3:1 ultra-wide panoramic canvas, intended final dimensions 1800 × 600 pixels. Left 48% is a quiet high-contrast aged-ivory and soot-charcoal typographic field with subtle torn-paper blocks; right 52% is the urban waterfront painting with depth. Build a strong horizontal silhouette and preserve comfortable padding around all text. It must read clearly when reduced to 846 pixels wide and still work on mobile.
+Lighting/mood: Fog-muted dawn; bleak, introspective, humane, cinematic. Warm ochre window light against cool mist.
+Color palette: aged ivory, soot charcoal, faded concrete gray, muted sea green, tarnished ochre, with only restrained vermilion accents.
+Materials/textures: visible bristle marks, dry gouache, ink blooms, worn newsprint, subtle creases and scuffs. Richly textured but no noisy clutter behind lettering.
+Text (verbatim, exact spelling and only these four text elements):
+1. Small typewritten label near upper left: "FILE 01"
+2. Huge dominant uppercase title: "ZEIZEL" — spell Z-E-I-Z-E-L, exactly once, occupying most of the left half, heavy condensed hand-lettered slab/industrial poster typography, aged ivory letters on a charcoal field or charcoal letters on an ivory field, absolutely legible.
+3. Secondary uppercase name directly below: "VALERY LVOV" — exactly once, medium size, clean condensed grotesk, high contrast.
+4. Small uppercase discipline line: "SYSTEMS / SOFTWARE / SELF-HOSTING" — exactly once, with slash separators, sufficiently large to remain legible at GitHub width.
+Typography constraints: Exact text is essential. No extra letters, no garbled glyphs, no partial crop, no warped baseline. Use simple bold forms and generous tracking for the small discipline line. Integrate type as part of the weathered poster collage while preserving very high contrast.
+Constraints: Original artwork; full-bleed finished illustration; unmistakably content-rich banner; text-safe margins; no human figures required; no trademarks; no watermark.
+Avoid: any other words or pseudo-text; fake logos; political insignia; official seals; copyrighted characters; portraits; empty checkered strip; dominant geometric blocks; flat corporate vector style; neon cyberpunk; glossy 3D; generic AI fantasy; excessive red; tiny illegible caption text.
