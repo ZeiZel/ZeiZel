@@ -2,6 +2,7 @@
 
 - `skills-*.svg`: generated from [Skill Icons](https://github.com/tandpfun/skill-icons), MIT License. The repository's [license](https://github.com/tandpfun/skill-icons/blob/main/LICENSE) covers the bundled icon artwork.
 - `disco-hero.png`: original generated illustration commissioned for this profile. It is inspired by the atmosphere of *Disco Elysium* and is not an official game asset.
+- `disco-hero-ink.png`: original generated transparent-edge variation of the profile header, commissioned for this profile. It is inspired by the atmosphere of *Disco Elysium* and is not an official game asset.
 - `disco-footer.png`: original generated illustration commissioned for this profile. It is a rusted industrial detail inspired by the atmosphere of *Disco Elysium* and is not an official game asset.
 
 ## MIT notice

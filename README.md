@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/disco-hero.png" alt="A painterly waterfront city dossier with the title ZeiZel" width="100%" />
+  <img src="./assets/disco-hero-ink.png" alt="A painterly waterfront city dossier with organic torn ink-wash edges and the title ZeiZel" width="100%" />
 </p>
 
 ```ts
