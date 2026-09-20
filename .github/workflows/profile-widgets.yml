@@ -32,11 +32,13 @@ jobs:
       - name: Generate compact activity metrics
         # lowlighter/metrics master @ 366f8b9 (pinned 2026-09-20)
         uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
+        timeout-minutes: 5
         with:
           filename: dist/github-metrics.svg
           token: ${{ github.token }}
           user: ${{ github.repository_owner }}
           base: ''
+          base_skip: yes
           config_timezone: Europe/Moscow
           plugin_activity: yes
           plugin_activity_limit: 5
@@ -45,6 +47,8 @@ jobs:
           plugin_activity_visibility: public
           output_action: none
           plugins_errors_fatal: yes
+          retries: 1
+          retries_delay: 10
 
       - name: Collect generated widgets
         run: |
