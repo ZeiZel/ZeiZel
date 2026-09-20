@@ -31,7 +31,7 @@ jobs:
 
       - name: Generate compact activity metrics
         # lowlighter/metrics master @ 366f8b9 (pinned 2026-09-20)
-        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
           filename: dist/github-metrics.svg
           token: ${{ github.token }}
