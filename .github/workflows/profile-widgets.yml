@@ -1,0 +1,64 @@
+name: Generate profile widgets
+
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-widgets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate Breakout contribution graph
+        # abozanona/pacman-contribution-graph main @ 7332e1d (pinned 2026-09-20)
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ github.token }}
+          games: breakout
+          hide_month_labels: 'true'
+
+      - name: Generate compact activity metrics
+        # lowlighter/metrics master @ 366f8b9 (pinned 2026-09-20)
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96
+        with:
+          filename: dist/github-metrics.svg
+          token: ${{ github.token }}
+          user: ${{ github.repository_owner }}
+          base: ''
+          config_timezone: Europe/Moscow
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: push, issue, pr, release, review
+          plugin_activity_visibility: public
+          output_action: none
+          plugins_errors_fatal: yes
+
+      - name: Collect generated widgets
+        run: |
+          sudo cp /metrics_renders/dist/github-metrics.svg dist/github-metrics.svg
+          test -s dist/github-metrics.svg
+          test -s dist/breakout-contribution-graph.svg
+          test -s dist/breakout-contribution-graph-dark.svg
+
+      # Publish all generated widgets together so one action cannot remove another's files.
+      - name: Publish widgets to output branch
+        # crazy-max/ghaction-github-pages v4.2.0 @ df5cc2b (pinned 2026-09-20)
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
