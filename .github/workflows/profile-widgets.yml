@@ -29,7 +29,7 @@ jobs:
           games: breakout
           hide_month_labels: 'true'
 
-      - name: Generate compact activity metrics
+      - name: Generate isometric contribution calendar
         # lowlighter/metrics master @ 366f8b9 (pinned 2026-09-20)
         uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         timeout-minutes: 5
@@ -40,11 +40,8 @@ jobs:
           base: ''
           base_skip: yes
           config_timezone: Europe/Moscow
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: push, issue, pr, release, review
-          plugin_activity_visibility: public
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           output_action: none
           plugins_errors_fatal: yes
           retries: 1

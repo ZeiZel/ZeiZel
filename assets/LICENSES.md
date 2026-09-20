@@ -1,8 +1,7 @@
 # Asset credits
 
-- `skills-*.svg` (except `skills-custom.svg`): generated from [Skill Icons](https://github.com/tandpfun/skill-icons), MIT License. The repository's [license](https://github.com/tandpfun/skill-icons/blob/main/LICENSE) covers the bundled icon artwork.
+- `skills-*.svg`: generated from [Skill Icons](https://github.com/tandpfun/skill-icons), MIT License. The repository's [license](https://github.com/tandpfun/skill-icons/blob/main/LICENSE) covers the bundled icon artwork.
 - `banner.svg`: generated from [Capsule Render](https://github.com/kyechan99/capsule-render), MIT License. See its [license](https://github.com/kyechan99/capsule-render/blob/master/LICENSE).
-- `skills-custom.svg`: original labelled tiles maintained in this repository.
 
 ## MIT notices
 

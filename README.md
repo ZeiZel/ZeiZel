@@ -22,47 +22,48 @@ const zeizel: Developer = {
 };
 ```
 
-- 🏦 Working in the **FinTech** sector
+- 🏬 Currently working in **Retail**, previously in **FinTech**
 - 🔭 Building a **self-hosted** work platform and a small game
 - 📝 Maintaining a comprehensive **[Obsidian knowledge base](https://github.com/ZeiZel/Obsidian-base)** for IT development
-- 💬 Ask me about **Backend Development, DevOps, Management, and System Design**
+- 💬 Ask me about **Frontend, Desktop, Mobile, Backend, and DevOps development**
 
 ## 🛠️ Tech stack
 
 ### Languages & web
 
 <p><img src="./assets/skills-languages.svg" alt="JavaScript, TypeScript, Go, C Sharp, HTML, CSS, Bash and Lua" /></p>
-<sub>JavaScript · TypeScript · Go · C# · HTML · CSS · Bash · Lua</sub>
 
 ### Frontend
 
 <p><img src="./assets/skills-frontend.svg" alt="React, Next.js, Redux, Tailwind CSS, Vite and Sass" /></p>
-<sub>React · Next.js · Redux · Tailwind CSS · Vite · Sass</sub>
 
-### Backend & data
+### Backend
 
-<p><img src="./assets/skills-backend.svg" alt="Node.js, NestJS, Express and Prisma" /></p>
-<sub>Node.js · NestJS · Express · Prisma</sub>
+<p><img src="./assets/skills-backend.svg" alt="Node.js, NestJS, Express and Prisma ORM" /></p>
 
 ### DevOps & infrastructure
 
 <p><img src="./assets/skills-infra.svg" alt="Ansible, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus and Grafana" /></p>
-<sub>Ansible · Docker · Kubernetes · Terraform · GitHub Actions · Prometheus · Grafana</sub>
 
-### Data & messaging
+### Databases & messaging
 
-<p><img src="./assets/skills-databases.svg" alt="PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka and Elasticsearch" /></p>
-<sub>PostgreSQL · MongoDB · Redis · RabbitMQ · Kafka · Elasticsearch</sub>
+<p><img src="./assets/skills-databases.svg" alt="PostgreSQL, MongoDB, MySQL, SQLite, Redis, RabbitMQ, Kafka and Elasticsearch" /></p>
 
 ### Tools
 
 <p><img src="./assets/skills-tools.svg" alt="Electron, Git, Figma, Obsidian, Linux and Neovim" /></p>
-<sub>Electron · Git · Figma · Obsidian · Linux · Neovim</sub>
 
-### Additional tools
+### Additional technologies
 
-<p><img src="./assets/skills-custom.svg" alt="Helm, Vagrant, React Native, PWA, ESLint, PL/SQL, Claude, Codex, Nx, Expo and Homebrew" /></p>
-<sub>Helm · Vagrant · React Native · PWA · ESLint · PL/SQL · Claude · Codex · Nx · Expo · Homebrew</sub>
+- **Databases:** Microsoft SQL Server · MariaDB · ClickHouse
+- **Data access:** TypeORM · GORM · PL/SQL
+- **Platforms & tools:** Helm · Vagrant · React Native · PWA · ESLint · Claude · Codex · Nx · Expo · Homebrew
+
+### Observability
+
+**GPL:** Grafana · Prometheus · Loki
+
+**ELK:** Elasticsearch · Logstash · Kibana
 
 ## 🎮 A little playground
 
@@ -74,9 +75,9 @@ const zeizel: Developer = {
   </picture>
 </p>
 
-## 📊 GitHub activity
+## 📆 Coding rhythm
 
-<p align="center"><img src="https://raw.githubusercontent.com/ZeiZel/ZeiZel/output/github-metrics.svg" alt="GitHub activity metrics" width="90%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeiZel/ZeiZel/output/github-metrics.svg" alt="Isometric contribution calendar for the last six months" width="90%" /></p>
 
 <p align="center"><i>💥 Keep learning ... ~</i></p>
 
